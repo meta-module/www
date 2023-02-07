@@ -1,6 +1,6 @@
 # www.metamodule.org
 
-![logo](http://logo.metamodule.org/2/cover.png)
+![logo](http://logo.metamodule.org/1/cover.png)
 
 ## menu
 
